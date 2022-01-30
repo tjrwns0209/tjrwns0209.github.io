@@ -19,7 +19,7 @@ published: true
 
 <img src="../../assets/img/fork.png">
 
-+ 가져온 다음 그 레포지토리에 들어가서 셋팅에서 이름을 <Username.github.io> 로 바꿔줍니다.
++ 가져온 다음 그 레포지토리에 들어가서 셋팅에서 이름을 ***Username.github.io*** 로 바꿔줍니다.
 
 <img src="../../assets/img/setName.png">
 
@@ -35,6 +35,6 @@ published: true
 
 + Subtitle은 타이틀 밑에 작게 표시됩니다. 그리고 이름까지 설정해 줍니다.
 
-+ 제일 중요한 url입니다. 주석을 풀어주고 주소만 남겨줍니다. 그리고 <https://UserName.github.io>로 작성해줍니다. 
++ 제일 중요한 url입니다. 주석을 풀어주고 주소만 남겨줍니다. 그리고 ***https://UserName.github.io*** 로 작성해줍니다. 
 
 그럼 중요한 설정은 끝났습니다. 자신이 설정한 url로 이동해 봐요! 페이지가 뜬다면 성공입니다.
