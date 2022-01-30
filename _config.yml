@@ -107,11 +107,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코딩은 어려워어..."
   location         : "YangPyeong"
-  email            : 
+  email            : "ksh730506@naver.com"
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ksh730506@naver.com"
+      # url: "ksh730506@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
