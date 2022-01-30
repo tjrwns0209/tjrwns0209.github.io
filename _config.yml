@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en_US"
 title                    : "Front-End Blog"
 title_separator          : "-"
 subtitle                 : "포스팅 하면서 배우는 프론트엔드 블로그"
