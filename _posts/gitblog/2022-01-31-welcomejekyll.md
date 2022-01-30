@@ -11,21 +11,21 @@ published: true
 
 + 테마 선택 : <https://github.com/topics/jekyll-theme>
 
-<img src="../../assets/img/jekyllTheme.png">
+<img src="./_img/jekyllTheme.png">
 
 저는 이거를 선택했어요. 가장 많이 다운 받기도 해서 이거루 선택했습니다. ***현재 이 포스팅은 저 테마를 기준으로 작성되었습니다.***
 
 + 그 다음으로 테마를 결정했다면 우측 상단에 ***Fork*** 를 눌러 내 레포지토리에 가져옵니다. 
 
-<img src="../../assets/img/fork.png">
+<img src="./_img/fork.png">
 
 + 가져온 다음 그 레포지토리에 들어가서 셋팅에서 이름을 ***Username.github.io*** 로 바꿔줍니다.
 
-<img src="../../assets/img/setName.png">
+<img src="./_img/setName.png">
 
 + 그 다음 _config.yml 파일로 가줍니다. 
 
-<img src="../../assets/img/setting.png">
+<img src="./_img/setting.png">
 
 + 막 엄청나게 많이 쓰여져 있는데 몇 개만 바꿔주면 됩니다. 다른 거는 나중에 천천히 알아봐도 됩니다. 
 
