@@ -2,6 +2,8 @@
 layout: single
 title:  "깃블로그 만들기."
 comments : ture
+categories : [jekyll]
+tags : [jekyll, git-pages]
 ---
 
 + 맨 처음으로 일단 테마를 정해보죠
