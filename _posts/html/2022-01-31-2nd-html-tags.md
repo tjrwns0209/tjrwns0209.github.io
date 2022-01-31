@@ -5,6 +5,7 @@ comments : ture
 categories : [html]
 tags : [html, html tag]
 published: true
+toc: true 
 ---
 
 # 이번에는 HTML의 head에 포함되는 태그들에 대해서 알아볼게요. 
