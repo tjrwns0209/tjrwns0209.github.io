@@ -23,6 +23,14 @@ toc: true
 
 이렇게 쓰이게 됩니다. 이론적인 부분은 빼고, css를 불러올 때는 저런식으로 작성하시면 됩니다. 
 
+또한 
+
+```html
+  <link rel="stylesheet" media="screen and (min-width: 1024px)" href="assets/css/desktop.css?4"/>
+  <link rel="stylesheet" media="screen and (min-width : 320px) and (max-width : 767px)" href="assets/css/mobile.css?3"/>
+```
+
+이런식으로 `<link>`태그에 media라는 속성을 넣어 스크린 크기에 맞는 화면을 설정할 수도 있습니다. (물론 각각 css파일을 통해 조정해 주어야 적용됩니다.)
 # `<meta>` 
 
 이 태그는 문서를 설명해주는 태그이고,   
