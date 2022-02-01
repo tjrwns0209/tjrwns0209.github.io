@@ -190,5 +190,7 @@ id = 무조건 하나!!
 
 <img width="758" alt="스크린샷 2022-02-02 01 08 48" src="https://user-images.githubusercontent.com/75836426/152005402-da9b1f63-1c85-4767-8862-60641f137a4a.png">
 
-+ div 태그와는 다르게 span 태그는 딱 맞게 배경이 설정이 되었죠. 그게 inline이에요!!   
++ div 태그와는 다르게 span 태그는 딱 맞게 배경이 설정이 되었죠. 그게 inline이에요!   
 div와 span은 그 차이를 가지고 있어요!
+
+# 

@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en_US"
+locale                   : "ko-KR"
 title                    : "Front-End Blog"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "포스팅 하면서 배우는 프론트엔드 블로그"
 name                     : "SeokJun"
 description              : "An amazing website."
@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name             : "SeokJun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dog.jpg"
   bio              : "코딩은 어려워어..."
-  location         : "Secret"
+  location         : "South Korea"
   email            : "ksh730506@naver.com"
   links:
     - label: "e-mail"
