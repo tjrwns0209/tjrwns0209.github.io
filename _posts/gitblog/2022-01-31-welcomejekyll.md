@@ -6,6 +6,9 @@ categories : [jekyll]
 tags : [jekyll, git-pages]
 published: true
 toc: true
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 
 + 맨 처음으로 일단 테마를 정해보죠

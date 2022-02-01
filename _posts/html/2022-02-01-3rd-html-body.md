@@ -7,6 +7,9 @@ categories : [html]
 tags : [html, html tag, <body>]
 published: true
 toc: true 
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 
 이번 포스팅은 굉장히 길어지겠네요...ㅎ

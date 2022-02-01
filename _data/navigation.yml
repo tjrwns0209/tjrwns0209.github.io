@@ -4,3 +4,15 @@ main:
     url: /categories/
   - title : "tag"
     url : /tags/
+  - title: "search"
+    url: /search/
+
+docs:
+  - title: "sidebar"
+    children:
+      - title: "category"
+        url: /categories/
+      - title: "tag"
+        url: /tags/
+      - title: "search"
+        url: /search/

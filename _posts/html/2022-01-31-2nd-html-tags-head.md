@@ -6,6 +6,9 @@ categories : [html]
 tags : [html, html tag, <head>]
 published: true
 toc: true 
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 
 # HTML의 head에 포함되는 태그

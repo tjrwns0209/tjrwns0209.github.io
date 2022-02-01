@@ -6,6 +6,9 @@ categories : [jekyll, Error]
 tags : [jekyll, git-pages, Error]
 published: true
 toc: true
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 
 ## 블로그를 운영하면서 버그를 발견할 때마다 계속 업데이트 예정
