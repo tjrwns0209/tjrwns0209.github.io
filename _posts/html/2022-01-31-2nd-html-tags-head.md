@@ -8,7 +8,7 @@ published: true
 toc: true 
 ---
 
-# 이번에는 HTML의 head에 포함되는 태그들에 대해서 알아볼게요. 
+# HTML의 head에 포함되는 태그
 
 + 먼저 `<head>`태그 안에는 `<link>, <meta>, <title>, <style>, <script>` 등이 가장 대표적으로 쓰이게 됩니다. (제가 만들면서도 이게 가장 많이 쓰였어요..ㅎㅎ) 이제 각각 무슨 역할을 하는지 알아볼게요.
 
