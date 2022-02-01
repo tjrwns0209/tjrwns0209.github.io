@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "HTML Tags"
+title:  "HTML Tags <head>"
 comments : ture
 categories : [html]
-tags : [html, html tag]
+tags : [html, html tag, <head>]
 published: true
 toc: true 
 ---
