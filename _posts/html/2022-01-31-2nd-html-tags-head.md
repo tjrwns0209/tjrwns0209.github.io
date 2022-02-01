@@ -3,7 +3,7 @@ layout: single
 title:  "HTML Tags <head>"
 comments : ture
 categories : [html]
-tags : [html, html tag, <head>]
+tags : [html, html tag]
 published: true
 toc: true 
 author_profile: false
