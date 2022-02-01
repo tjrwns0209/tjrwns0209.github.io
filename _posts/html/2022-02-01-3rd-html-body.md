@@ -11,12 +11,8 @@ sidebar:
   nav: "docs"
 ---
 
-<div class="notice--danger">
-  <h4>변경 공지</h4>
-  <ul>
-    <li>작성중...!</li>
-  </ul>
-</div>
+
+# HTML 태그
 
 이번 포스팅은 굉장히 길어지겠네요...ㅎ
 
@@ -26,6 +22,12 @@ sidebar:
 
 html 외에도 많은 언어 지원하니까 참고하세요!!
 
+<div class="notice--danger">
+  <h4>변경 공지</h4>
+  <ul>
+    <li>작성중...!</li>
+  </ul>
+</div>
 
 # HTML의 body에 포함되는 태그
 

@@ -10,6 +10,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
+# 깃블로그 만들기.
 
 + 맨 처음으로 일단 테마를 정해보죠
 
