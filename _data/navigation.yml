@@ -10,6 +10,8 @@ main:
 docs:
   - title: "sidebar"
     children:
+      - title: "mainPage"
+        url: https://tjrwns29.github.io
       - title: "category"
         url: /categories/
       - title: "tag"
