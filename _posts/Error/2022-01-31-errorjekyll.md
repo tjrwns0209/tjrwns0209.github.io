@@ -2,7 +2,7 @@
 layout: single
 title:  "깃블로그 Error"
 comments : ture
-categories : [jekyll, Error]
+categories : [Error]
 tags : [jekyll, git-pages, Error]
 published: true
 toc: true

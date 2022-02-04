@@ -5,7 +5,7 @@ date: 2022-02-02 19:44:00 +0900
 last_modified_at:  #마지막 수정 시간 적기
 comments : ture
 categories : [html]
-tags : [html, html tag]
+tags : [html, html tag, body]
 published: true
 toc: true 
 author_profile: false
