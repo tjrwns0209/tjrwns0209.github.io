@@ -12,9 +12,6 @@
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6999789063178157"
-crossorigin="anonymous">
-</script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
@@ -24,5 +21,8 @@ crossorigin="anonymous">
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     <script src="{{ script | relative_url }}"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6999789063178157"
+    crossorigin="anonymous">
+    </script>
   {% endfor %}
 {% endif %}

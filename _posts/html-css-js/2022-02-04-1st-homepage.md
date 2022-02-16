@@ -75,3 +75,25 @@ close.addEventListener('click', function(){
 밑에 2개도 다 똑같음
 
 + addEventListener를 사용해서 클릭했을 때 sideBar의 스타일이 변경되도록 해줌.
+
+## 2022-02-12 index.html을 깔끔하게 해줌
+
++ index.html의 내용물이 점점 쌓여가자 너무 복잡해짐
+
++ 구글링을 통해 html을 include할 방법을 찾음
+
+```javascript
+$(document).ready(function wrapper() {
+  $("나타낼 위치").load("html의 경로");
+})
+```
+
+![스크린샷 2022-02-12 04 39 16](https://user-images.githubusercontent.com/75836426/153658320-471ba029-6f42-40da-bc64-0bbf231340f7.png)
+
+index의 내용을 담아줄 파일들을 생성함
+
+![스크린샷 2022-02-12 04 36 32](https://user-images.githubusercontent.com/75836426/153658030-ad607709-a85a-41d3-86cd-2dd86c781ee5.png)
+
+덕분에 index.html이 엄청 깔끔해짐...ㅠ 이렇게 알아가는 맛에 코딩하고, 개운함에 코딩하지...ㅎ
+
++ 근데 스크립트 적용이 약간 이상함 index.html에 적용되어 있는 스크립트가 적용되지 않아서 새로 만든 파일들에 직접 스크립트를 호출해서 해결하긴 했는데... 이건 좀 이해가 안되네요...
